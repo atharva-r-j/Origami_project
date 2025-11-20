@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Turtle Origami",
+    "slug": "turtle",
+    "difficulty": "Easy",
+    "steps": [
+      "/assets/tutorials/turtle/step1.jpg",
+      "/assets/tutorials/turtle/step2.jpg",
+      "/assets/tutorials/turtle/step3.jpg"
+    ]
+  }
+]
